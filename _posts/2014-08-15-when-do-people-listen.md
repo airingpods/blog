@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When do people listen ?
+title: When do people listen?
 ---
 
 You have lot of content online available.
