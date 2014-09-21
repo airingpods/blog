@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.8);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -246,4 +246,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Orange */
+.theme-base-orange .sidebar {
+  background-color: #FFA500;
+}
+.theme-base-orange .content a,
+.theme-base-orange .related-posts li a:hover {
+  color: #FFA500;
 }
