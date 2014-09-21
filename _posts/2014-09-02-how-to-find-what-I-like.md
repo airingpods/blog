@@ -29,5 +29,5 @@ How is this content organized ?
 
 This is where we have reached so far. 
 
-Aspiration is that we reach a position to *suggest* you what you would like. Long way !
+Aspiration is that we reach a position to *suggest* you what you would like. Very long way!
 
