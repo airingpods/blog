@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+#permalink:        pretty
+permalink: 		   /:title
+
+# Setup
+title:            Airing Pods
+tagline:          'Conversations on Podcasts'
+description:      'Listen from over 50 topics'
+url:              http://blog.airingpods.com
+baseurl:          /
+
+author:
+  name:           'Airing Pods'
+  url:            https://twitter.com/airingpods
+
+paginate:         5
+
+# Custom vars
+airingpodsurl:    http://www.airingpods.com
