@@ -25,7 +25,7 @@ How is this content organized ?
 
 -	*Similar* - If you tend to like a channel, would you not like to see the similar ones ? This is available in each channel page. You get to go to the list of similar channels. See the related section of [TED](http://www.airingpods.com/pods/npr-ted-radio-hour-podcast)
 
--	*Discover from Episodes* - You might get a taste of a channel from one of the episode. This is why we have a recent episodes section (merged from many channels combined, ordered by time of production). Browing thorugh this list gives us an easy way to *sample* the channel. Jump to [Episodes](http://www.airingpods.com/episodes)
+-	*Discover from Episodes* - You might get a taste of a channel from one of the episode. This is why we have a recent episodes section (merged from many channels combined, ordered by time of production). Browsing through this list gives us an easy way to *sample* the channel. Jump to [Episodes](http://www.airingpods.com/episodes)
 
 This is where we have reached so far. 
 
