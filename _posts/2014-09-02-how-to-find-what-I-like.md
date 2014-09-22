@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to find what I like?
+excerpt: How do I find which podcast I like ?
 ---
 
 How do I find what I like ? 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: When do people listen?
+excerpt: When do people really listen to audio or podcasts than watch video or read text or interact on a site ?
+categories: [audio, podcast, listening]
 ---
 
 You have lot of content online available.

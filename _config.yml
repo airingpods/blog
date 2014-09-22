@@ -9,7 +9,7 @@ permalink: 		   /:title
 # Setup
 title:            Airing Pods
 tagline:          'Conversations on Podcasts and in general listening content'
-description:      'Listen from over 50 topics'
+description:      'Listen on 50 topics'
 url:              http://blog.airingpods.com
 baseurl:          /
 
