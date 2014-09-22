@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tags: [podcast, audio, listening]
 permalink: /about/
 excerpt: Conversations about audio podcasts and in general listening content.
 ---

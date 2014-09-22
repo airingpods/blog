@@ -21,3 +21,7 @@ paginate:         5
 
 # Custom vars
 airingpodsurl:    http://www.airingpods.com
+
+#for sitemap plugin
+exclude:
+    - "/404.html"

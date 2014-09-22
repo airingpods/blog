@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to find what I like?
+tags: [podcast, audio, listening, recommendation, content filter]
 excerpt: How do I find which podcast I like ?
 ---
 
