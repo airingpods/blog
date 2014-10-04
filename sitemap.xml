@@ -2,11 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.airingpods.com/when-do-people-listen</loc>
-        <lastmod>2014-10-04T20:11:16+05:30</lastmod>
+        <lastmod>2014-10-04T21:15:14+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.airingpods.com/how-to-find-what-I-like</loc>
-        <lastmod>2014-10-04T20:11:16+05:30</lastmod>
+        <lastmod>2014-10-04T21:15:14+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.airingpods.com/audio-podcasts-for-entrepreneurs</loc>
+        <lastmod>2014-10-04T23:36:02+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.airingpods.com/about/</loc>
@@ -14,6 +18,6 @@
     </url>
     <url>
         <loc>http://blog.airingpods.com/</loc>
-        <lastmod>2014-09-22T12:32:49+05:30</lastmod>
+        <lastmod>2014-10-04T23:36:02+05:30</lastmod>
     </url>
 </urlset>
