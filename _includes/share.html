@@ -1,0 +1,18 @@
+<div class="shareText">
+  <a  target="_blank" 
+      class="shareText" 
+      onclick="trkEvent('subscribe-blog');"
+      href="http://{{site.host}}/atom.xml">Subscribe</a> | 
+  <a  target="_blank" 
+      class="shareText" 
+      onclick="trkEvent('tweet-blog');"
+      href="http://twitter.com/intent/tweet?url=http://{{site.host}}{{page.url}}&text={{page.title}}&via=AiringPods">Tweet</a> | 
+  <a  target="_blank" 
+      class="shareText" 
+      onclick="trkEvent('like-blog');"
+      href="http://facebook.com/sharer.php?u=http://{{site.host}}{{page.url}}&title={{page.title}}">Like</a> | 
+  <a  target="_blank" 
+      class="shareText" 
+      onclick="trkEvent('plusone-blog');"
+      href="https://plus.google.com/share?url=http://{{site.host}}{{page.url}}">+1</a>
+</div>

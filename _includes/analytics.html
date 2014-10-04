@@ -11,4 +11,21 @@
   }
 
   ga('send', 'pageview');
+  var trkEvent = function(action, label, value) {
+      if(!ga) {
+          return;
+      }
+      if(!action) {
+          return;
+      }
+      var cat = 'blog-event'
+      if(label && value) {
+          ga('send', 'event', cat, action, label, value);
+      } else if(label) {
+          ga('send', 'event', cat, action, label);
+      } else {
+          ga('send', 'event', cat, action);
+      }
+  }
+
 </script>
