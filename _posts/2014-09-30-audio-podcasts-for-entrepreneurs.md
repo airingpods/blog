@@ -19,9 +19,14 @@ Thought of collecting some of the good entrepreneur interview series:
 
 -	[Entrepreneur On Fire Podcast](http://www.airingpods.com/pods/entrepreneur-on-fire-john-lee-dumas-awarded-best-in-itunes): Each episode brings you an Entrepreneur who shares their journey. John Lee Dumas interviews Small Business Owner and startup founders, and takes us through the success (or failure) journey and the AH-HA moments as he puts it.
 
+-	[Foundation](http://www.airingpods.com/pods/foundation): This is the audio podcast of the startup interviews by Kevin Rose. Robert Kevin Rose is an American Internet entrepreneur who co-founded Revision3, Digg, Pownce, and Milk, as Wikipedia puts it.
+
+
 
 [Business News](http://www.airingpods.com/cats/business-news) section has more of such channels.
+
 [Careers](http://www.airingpods.com/cats/careers) section too has similar content.
+
 Another way to find some more of such shows is by this search on [startups](http://www.airingpods.com/search?q=startup)
 
 Listening to interviews in the form of Audio podcast is ideal for a daily commuter. If you happen to be interested in Entrepreneur series, you are lucky, we have a lot of such content.
