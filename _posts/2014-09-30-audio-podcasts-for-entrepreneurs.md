@@ -13,7 +13,9 @@ Thought of collecting some of the good entrepreneur interview series:
 
 -	[This Week In Startups](http://www.airingpods.com/pods/this-week-in-startups-audio): Brought to you by Entrepreneur Jason Calacanis, interviews many startup founders. Jason himself being a serial entrepreneur and angel investor adds to the quality of the podcast. Each week he has a new guest and the show has now done more than 500 episodes and is a great resource !
 
--	[Mixergy](http://www.airingpods.com/pods/business-tips-for-startups-by-proven-entrepreneurs-mixergy) - Learn from Proven Entrepreneurs is the tagline from the host Andrew Warner. This show too has done around 1000 episodes. In each show, Andrew interviews an Entrepreneur. One difference here from Jason's above show is that there are small business owners too in this. If you are an independent app developer who made success just enough to build a sustainable business for your family, you can be on this show !
+-	[Mixergy](http://www.airingpods.com/pods/business-tips-for-startups-by-proven-entrepreneurs-mixergy): Learn from Proven Entrepreneurs is the tagline from the host Andrew Warner. This show too has done around 1000 episodes. In each show, Andrew interviews an Entrepreneur. One difference here from Jason's above show is that there are small business owners too in this. If you are an independent app developer who made success just enough to build a sustainable business for your family, you can be on this show !
+
+-	[500 Startups](http://www.airingpods.com/pods/500-startups-podcast) - This podcast is from 500 startups accelerators. In each episode they have a talk with the companies in thier portfolio - Chat with 500 Startups founders, investors, and mentors
 
 
 [Business News](http://www.airingpods.com/cats/business-news) section has more of such channels.
