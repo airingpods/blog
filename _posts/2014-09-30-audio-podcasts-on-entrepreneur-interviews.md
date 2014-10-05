@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Audio Podcasts for entrepreneurs
+title: Audio Podcasts on entrepreneur interviews
 tags: [podcast, audio, listening, entrepreneurs, startup]
-excerpt: Listening to startup founders is a great way for budding entrepreneurs to learn.
+excerpt: Podcasts on startup interviews is a great way for budding entrepreneurs to learn.
 ---
 
 Listening to startup founders is a great way for budding entrepreneurs to learn.
