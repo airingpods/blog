@@ -1,15 +1,14 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-        <!--<a href="/" class="logo"><img alt="Airing Pods" /></a>-->
-        <h1>{{ site.title }}</h1>
-        <p class="lead">{{ site.description }}</p>
+        <a href="/" class="logoText"><span>{{ site.title }}</span></a>
+        <p class="lead">{{ site.shorttagline }}</p>
     </div>
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" 
         onclick="trkEvent('home-blog');"
-        href="{{ site.baseurl }}">Home</a> |
+        href="{{ site.baseurl }}/">Home</a> |
       <a class="sidebar-nav-item" target="_blank" 
         onclick="trkEvent('listen-blog');"
         href="{{site.airingpodsurl}}">Listen</a> |

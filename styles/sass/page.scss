@@ -2,14 +2,23 @@
 @import "syntax";
 @import "hyde";
 
-#copyrt {
-	color: lightgrey;
+.footer-text {
+	color: lightgrey !important;
 	font-size: 12pt;
+}
+
+#homeTitle {
+	font-size: 36pt;
+	margin-bottom: 20px;
 }
 
 .shareText {
 	color: #9a9a9a !important;	
 	font-size: 12pt !important;
+}
+
+.logoText {
+	font-size: 36pt;
 }
 
 .logo {

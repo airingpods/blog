@@ -8,8 +8,12 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      {{ content }}
-	  <p id="copyrt">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+		{{ content }}
+		<p class="footer-text">
+			&copy; {{ site.time | date: '%Y' }}. All rights reserved |
+			<a class="footer-text" href="{{site.airingpodsurl}}/terms-of-use/">Terms of use</a> | 
+			<a class="footer-text" href="{{site.airingpodsurl}}/privacy-policy/">Privacy Policy</a>
+		</p>
     </div>
   </body>
 </html>

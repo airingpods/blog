@@ -4,14 +4,15 @@ pygments:         true
 
 # Permalinks
 #permalink:        pretty
-permalink: 		   /:title
+permalink: 		   :title/
 
 # Setup
 title:            Airing Pods
-tagline:          'Conversations on Podcasts and in general listening content'
-description:      'Listen on 50 topics'
+tagline:          'Conversations on Audio Podcasts and in general listening content'
+shorttagline:     'Conversations on Audio Podcasts'
+description:      'Audio Podcasts'
 url:              http://blog.airingpods.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Airing Pods'
@@ -22,6 +23,5 @@ paginate:         5
 # Custom vars
 airingpodsurl:    http://www.airingpods.com
 
-#for sitemap plugin
-exclude:
-    - "/404.html"
+gems:
+  - jekyll-sitemap
