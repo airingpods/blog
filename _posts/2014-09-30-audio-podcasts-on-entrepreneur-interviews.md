@@ -11,7 +11,7 @@ Continuing from our discussion on [When do people listen?](/when-do-people-liste
 
 Thought of collecting some of the good entrepreneur interview series:
 
--	<img class="imgrt" src="/images/twist.jpg alt="Podcast Logo">[This Week In Startups](http://www.airingpods.com/pods/this-week-in-startups-audio): Brought to you by Entrepreneur Jason Calacanis, interviews many startup founders. Jason himself being a serial entrepreneur and angel investor adds to the quality of the podcast. Each week he has a new guest and the show has now done more than 500 episodes and is a great resource ! 
+-	<img class="imgrt" src="/images/twist.jpg" alt="Podcast Logo">[This Week In Startups](http://www.airingpods.com/pods/this-week-in-startups-audio): Brought to you by Entrepreneur Jason Calacanis, interviews many startup founders. Jason himself being a serial entrepreneur and angel investor adds to the quality of the podcast. Each week he has a new guest and the show has now done more than 500 episodes and is a great resource ! 
 
 -	<img class="imgrt" src="/images/mixergy.jpg" alt="Podcast Logo">[Mixergy](http://www.airingpods.com/pods/business-tips-for-startups-by-proven-entrepreneurs-mixergy): Learn from Proven Entrepreneurs is the tagline from the host Andrew Warner. This show too has done around 1000 episodes. In each show, Andrew interviews an Entrepreneur. One difference here from Jason's above show is that there are small business owners too in this. If you are an independent app developer who made success just enough to build a sustainable business for your family, you can be on this show !
 
